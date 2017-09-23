@@ -1,18 +1,20 @@
-## So You Want an Internship
+# So You Want an Internship
 ###### Shelley Vohr
 
-### Table of Contents
-* [Resources](#resources)
+## Table of Contents
+* [Companies](#companies)
 * [Technical Interviews](#technical-interviews)
 * [Resume](#resume)
-  * [Building Your Resume]()
-  * [Resume Feedback]()
+  * [Building Your Resume](#building-your-resume)
+  * [Resume Feedback](#resume-feedback)
+* [Cover Letters](#cover-letters)
 * [Referrals](#referrals)
-* [Social Networking]()
-* [Keeping Track of Your Applications]()
+* [Networking](#networking)
+  * [Social Networking](#social-networking)
+* [Keeping Track of Your Applications](#keeping-track-of-your-applications)
+* [Portfolio and Profile](#portfolio-and-profile)
 
-
-### Companies
+## Companies
 
 Here are some of my favorite resources for finding companies to work for.
 
@@ -23,63 +25,58 @@ Here are some of my favorite resources for finding companies to work for.
 * [KPCB Portfolio](http://www.kpcb.com/companies)
 * [Sequoia Capital Portfolio](https://www.sequoiacap.com/companies/)
 
-### Technical Interviews
+## Technical Interviews
 
 You should have a fairly robust understanding of data structure & algorithms,
 as well as how to use them appropriately.
 
-### Resume
+See [this](https://github.com/andreis/interview) great repo for a thorough overview of what you should know.
 
-#### Building Your Resume
+### More Interview Resources
+  * [HackerRank](https://www.hackerrank.com/)
+  * [Leetcode](https://leetcode.com/)
+  * [Cracking The Coding Interview (CTCI)](http://www.crackingthecodinginterview.com/)
+
+## Resume
+
+### Building Your Resume
 
 1. **Focus on accomplishments**
-  * Focus less on your job duties in your last job and more on what you actually
-  accomplished, with an emphasis on tangible results (increased app sales
-  revenues by 20 percent, developed software that reduced costs by 10 percent,
-  etc.).
+  * Focus less on your job duties in your last job and more on what you actually accomplished, with an emphasis on tangible results (increased app sales revenues by 20 percent, developed software that reduced costs by 10  percent, etc.).
+
 2. **Quantify results**
   * Avoid saying general things like “improved customer satisfaction,”
-  “increased company profits,” or “reduced number of bugs.” Instead, provide
-  quantifiable metrics that demonstrate how your work helped your company save
-  money, reduce costs, improve customer service, etc.
+  “increased company profits,” or “reduced number of bugs.”
+  * Instead, provide quantifiable metrics that demonstrate how your work helped your company save money, reduce costs, improve customer service, etc.
+
 3. **Target your resume to your career**
   * If you're seeking a software engineering internship, your job as a camp
   counselor before college shouldn't be included on your resume.
 
 4. **Don’t get too technical**
-  * Remember that not all recruiters are technical, so you want to make sure you
-  balance describing your experience with making it understandable for less
-  technical readers.
+  * Remember that not all recruiters are technical, so you want to make sure you balance describing your experience with making it understandable for less technical readers.
 
 5. **Be concise**
   * Your resume should never be more than one page.
 
 6. **Be clear, and structure your resume well**
-  * Try to think like a recruiter when creating your resume. Provide the
-  information recruiters want so that they don’t throw your resume in the
-  trash pile.
+  * Try to think like a recruiter when creating your resume.
+  * Provide the information recruiters want so that they don’t throw your resume in the trash pile.
 
 7. **Ditch the “objective.”**
   * Use an Objective in your resume only if you are right out of college or
-  want to bring attention to the fact that you want to transition to a new role
-  (for example, moving from a position in software engineering to one in sales).
+  want to bring attention to the fact that you want to transition to a new role (for example, moving from a position in software engineering to one in sales).
 
-8. **Don’t be vague in your “summary.”** If you use a summary section, be sure that it’s filled with key accomplishments (backed up by hard numbers), not vague pronouncements about your detail-oriented personality, strong work ethic, etc. Some people rename this section “Summary and Key Accomplishments.”
+8. **Don’t be vague in your “summary.”**
+  * If you use a summary section, be sure that it’s filled with key accomplishments (backed up by hard numbers), not vague pronouncements about your detail-oriented personality, strong work ethic, etc.
 
-9. **Include   skills**.
-  * Tech workers should be sure to include a Skills
-section on their resume. This section should list software expertise,
-programming languages, foreign languages, and other applicable skills, but
-it’s a good idea to skip basic skills (such as Microsoft Word) that many
-applicants have.
+9. **Include skills**.
+  * This section should list software expertise, programming languages, foreign  languages, and other applicable skills, but it’s a good idea to skip basic skills (such as Microsoft Word) that many applicants have.
   * The key is to list skills that will help you land the job.
-  * Don't include skill bars; if you really want to group by proficiency, group
-  under one of several categories such as "proficient", "familiar", or "learning."
+  * Don't include skill bars; if you really want to group by proficiency, group under one of several categories such as "proficient", "familiar", or "learning."
 
 10. **Use keywords**
-  * At its employment web site, Microsoft advises applicants to detail on their
-  resume how their experiences (leadership roles, work duties, school activities,
-  etc.) helped them to grow as a person and as a professional.
+  * At its employment web site, Microsoft advises applicants to detail on their resume how their experiences (leadership roles, work duties, school activities, etc.) helped them to grow as a person and as a professional.
     * This is a good approach, since you always want to show that you are evolving
     as a person and eager to learn new skills.
     * Also, use keywords that match those listed in the job announcement.
@@ -88,10 +85,24 @@ applicants have.
       * This will help you get noticed by resume-scanning software and
       advance past the first screening stage.
 
-#### Resume Feedback:
+### Resume Feedback:
 * [HH Websites and Resumes](https://www.facebook.com/groups/1487708811477672/)
 
-### Referrals
+## Cover Letters
+
+Unless a cover letter is _required_, there is no need to write one. It won't ever
+hurt you to write it, but recruiters generally don't read them or care if you do.
+
+If you do feel a need to write one, be sure to cover the following:
+
+1. **Who** are you?
+2. **What** can you do for them or bring to their company?
+3. **When** can you start?
+4. **Where** are you coming from?
+5. **Why** are you interested in working for their company?
+6. **How** can they get back in contact with you?
+
+## Referrals
 
 Referrals are major :key: if you can get them. They push you towards the top of
 the mountain of resumes that companies get every single day, and so they're more
@@ -106,7 +117,7 @@ passing. If they can vouch for you as a person as well as an engineer, they're
 far more likely to refer you than if they don't know you well enough to speak
 to either.
 
-### Fellowships
+## Fellowships
 
 [8VCFellowship](http://8vcfellowship.com/) - [Application](https://formation8.typeform.com/to/afHHYv)
 
@@ -149,22 +160,8 @@ cities. When Fellows are ready to start a company — be it two years after coll
 or ten — VFA has the resources (like a crowdfunding competition, accelerator,
 and seed fund) to help make that dream a reality.
 
-### Cover Letters
-
-Unless a cover letter is _required_, there is no need to write one. It won't ever
-hurt you to write it, but recruiters generally don't read them or care if you do.
-
-If you do feel a need to write one, be sure to cover the following:
-
-1. **Who** are you?
-2. **What** can you do for them or bring to their company?
-3. **When** can you start?
-4. **Where** are you coming from?
-5. **Why** are you interested in working for their company?
-6. **How** can they get back in contact with you?
-
-### Networking
-#### Social Networking Resources
+## Networking
+### Social Networking Resources
 * [Ladies Storm Hackathons (LSH)](https://www.facebook.com/groups/LadiesStormHackathons)
   * [LSH Jobs/Internships](https://www.facebook.com/groups/LSHJobs/)
 * [Tech Ladies](https://www.facebook.com/groups/techladies/)
@@ -175,12 +172,27 @@ If you do feel a need to write one, be sure to cover the following:
   * [HH Interview Prep](https://www.facebook.com/groups/722062947858000/)
   * [HH Internships](https://www.facebook.com/groups/HHinternships/)
 
-### Keeping Track of Your Applications
+## Keeping Track of Your Applications
 
 * [Huntr](https://huntr.co/) - a web app that keeps track of every detail about
 your job applications - notes, dates, tasks, job descriptions, salaries, locations, company data and more.
 * [Airtable](https://airtable.com/templates/everyday-life/expXOCN6dkEb2oDim/job-hunting) - Airtable makes it easy
 to organize stuff,people, ideas and anything else you can imagine.
+
+## Portfolio and Profile
+### GitHub
+  * Set up a GitHub account for yourself, so that you can showcase personal projects or school-related projects.
+  * Open source is another great avenue for establishing a portfolio.
+    * If you've contributed significantly to an OSS project, recruiters will
+    want to know that!
+### Personal Website
+  * Having a personal website is not a make-it-or-break-it, but it's a great way to show off some of your skills in a more fun way.
+  * Oftentimes, a great personal website can be a project in itself!
+    * For examples, take a look at some of these awesome [personal websites](http://www.creative-portfolios.com/)!
+
+### LinkedIn
+* You should have a LinkedIn account, and it should essentially mirror your resume.
+
 
 ##### Sources:
 [Resume Tips](http://www.vault.com/blog/resumes-cover-letters/15-resume-tips-for-tech-jobs)
