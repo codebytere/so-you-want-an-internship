@@ -1,7 +1,7 @@
 # So You Want an Internship
 ###### Shelley Vohr
 
-## Table of Contents
+## Table of Contents :point_down:
 * [Companies](#companies)
 * [Are You Ready?](#are-you-ready)
 * [Technical Interviews](#technical-interviews)
@@ -15,7 +15,7 @@
 * [Keeping Track of Your Applications](#keeping-track-of-your-applications)
 * [Portfolio and Profile](#portfolio-and-profile)
 
-## Companies
+## Companies :unicorn:
 
 Here are some of my favorite resources for finding companies to work for.
 
@@ -48,7 +48,7 @@ Once you’ve taken or are taking Data Structures and Algorithms, you have all t
 
 As a junior, companies are going to expect you to know your Data Structures and Algorithms inside and out. Practice technical questions, both on an online resource and a whiteboard. With that said, even if you don’t have the technical questions down it's still smart to apply as applications open. It's definitely better to be early and fail a few interviews than to wait until the last minute and have all the spots be full. Chances are you won’t get an offer at the first company you interview with, but that's ok! Every interview can be taken as a learning experience towards your next one. Most big companies interview in a language-agnostic manner, but some smaller ones ask you to interview in a language they themselves you so be sure you're prepared for both options.
 
-## Technical Interviews
+## Technical Interviews :computer:
 
 You should have a fairly robust understanding of data structure & algorithms,
 as well as how to use them appropriately.
@@ -60,7 +60,7 @@ See [this](https://github.com/andreis/interview) great repo for a thorough overv
   * [Leetcode](https://leetcode.com/)
   * [Cracking The Coding Interview (CTCI)](http://www.crackingthecodinginterview.com/)
 
-## Resume
+## Resume :books:
 
 ### Building Your Resume
 
@@ -123,7 +123,7 @@ mine for summer 2017, I ended up redesigning it in Sketch.
 * [CSCareerQuestions](https://www.reddit.com/r/cscareerquestions/) reviews resumes every Tues/Thurs
 * Your school's career center
 
-## Cover Letters
+## Cover Letters :love_letter:
 
 Unless a cover letter is _required_, there is no need to write one. It won't ever
 hurt you to write it, but recruiters generally don't read them or care if you do.
@@ -137,7 +137,7 @@ If you do feel a need to write one, be sure to cover the following:
 5. **Why** are you interested in working for their company?
 6. **How** can they get back in contact with you?
 
-## Referrals
+## Referrals :grin: :heart: :grin:
 
 Referrals are major :key: if you can get them. They push you towards the top of
 the mountain of resumes that companies get every single day, and so they're more
@@ -152,8 +152,7 @@ passing. If they can vouch for you as a person as well as an engineer, they're
 far more likely to refer you than if they don't know you well enough to speak
 to either.
 
-
-## Fellowships
+## Fellowships :rocket:
 
 [8VCFellowship](http://8vcfellowship.com/) - [Application](https://formation8.typeform.com/to/afHHYv)
 
@@ -196,7 +195,7 @@ cities. When Fellows are ready to start a company — be it two years after coll
 or ten — VFA has the resources (like a crowdfunding competition, accelerator,
 and seed fund) to help make that dream a reality.
 
-## Networking
+## Networking :zap:
 ### Social Networking Resources
 * [Ladies Storm Hackathons (LSH)](https://www.facebook.com/groups/LadiesStormHackathons)
   * [LSH Jobs/Internships](https://www.facebook.com/groups/LSHJobs/)
@@ -215,8 +214,8 @@ your job applications - notes, dates, tasks, job descriptions, salaries, locatio
 * [Airtable](https://airtable.com/templates/everyday-life/expXOCN6dkEb2oDim/job-hunting) - Airtable makes it easy
 to organize stuff,people, ideas and anything else you can imagine.
 
-## Portfolio and Profile
-### GitHub
+## Portfolio and Profile :loudspeaker:
+### GitHub :octocat:
   * Set up a GitHub account for yourself, so that you can showcase personal projects or school-related projects.
   * Open source is another great avenue for establishing a portfolio.
     * If you've contributed significantly to an OSS project, recruiters will
