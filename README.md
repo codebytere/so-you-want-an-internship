@@ -3,17 +3,19 @@
 
 ## Table of Contents :point_down:
 * [Companies](#companies)
-* [Are You Ready?](#are-you-ready)
-* [Technical Interviews](#technical-interviews)
-* [Resume](#resume)
+* [Are You Ready?](#are-you-ready-eyes)
+* [Technical Interviews](#technical-interviews-computer)
+* [Resume](#resume-books)
   * [Building Your Resume](#building-your-resume)
+  * [Resume Design](#resume-design)
   * [Resume Feedback](#resume-feedback)
-* [Cover Letters](#cover-letters)
-* [Referrals](#referrals)
-* [Networking](#networking)
+* [Cover Letters](#cover-letters-love-letter)
+* [Referrals](#referrals-grin-heart-grin)
+* [Fellowships](#fellowships-rocket)
+* [Networking](#networking-zap)
   * [Social Networking](#social-networking)
-* [Keeping Track of Your Applications](#keeping-track-of-your-applications)
-* [Portfolio and Profile](#portfolio-and-profile)
+* [Keeping Track of Your Applications](#keeping-track-of-your-applications-pencil)
+* [Portfolio and Profile](#portfolio-and-profile-loudspeaker)
 
 ## Companies :unicorn:
 
@@ -26,11 +28,10 @@ Here are some of my favorite resources for finding companies to work for.
 * [KPCB Portfolio](http://www.kpcb.com/companies)
 * [Sequoia Capital Portfolio](https://www.sequoiacap.com/companies/)
 
-## Applying
-### Are You Ready?
+## Are You Ready? :eyes:
 Short answer: **YES**. Long answer: **YYYYYYEEEEEESSSSSSSSSSS**.
 
-#### Freshman
+### Freshman
 
 Your options are definitely more limited after only your first year in college, but you shouldn't let that hold you back from applying at all! There are a solid number of companies that have internship programs targeted to freshman. Some of these are:
 * Google (Engineering Practicum Internship)
@@ -40,11 +41,11 @@ Your options are definitely more limited after only your first year in college, 
 These are absolutely worth applying to, but don’t rely on getting them or sometimes even hearing back. They’re highly competitive and you should keep looking after applying. It's also a great idea to to try local companies in your area. Even if they don’t list an internship application, sending an email can’t hurt. This was actually how I got my first software engineering
 internship!
 
-#### Sophomore
+### Sophomore
 
 Once you’ve taken or are taking Data Structures and Algorithms, you have all the knowledge you need to start. At this point, if you're looking for your first internship, you should work towards creating a side project or two. Having side projects are key to answering behavioral questions in an interview and attracting attention to your resume. The next step is to start preparing for interviews. This includes both behavioral and technical. Your Data Structures and Algorithms class is a good start to preparing for technical questions. See [Technical Interviews](#technical-interviews) for more!
 
-#### Junior
+### Junior
 
 As a junior, companies are going to expect you to know your Data Structures and Algorithms inside and out. Practice technical questions, both on an online resource and a whiteboard. With that said, even if you don’t have the technical questions down it's still smart to apply as applications open. It's definitely better to be early and fail a few interviews than to wait until the last minute and have all the spots be full. Chances are you won’t get an offer at the first company you interview with, but that's ok! Every interview can be taken as a learning experience towards your next one. Most big companies interview in a language-agnostic manner, but some smaller ones ask you to interview in a language they themselves you so be sure you're prepared for both options.
 
@@ -207,7 +208,7 @@ and seed fund) to help make that dream a reality.
   * [HH Interview Prep](https://www.facebook.com/groups/722062947858000/)
   * [HH Internships](https://www.facebook.com/groups/HHinternships/)
 
-## Keeping Track of Your Applications
+## Keeping Track of Your Applications :pencil:
 
 * [Huntr](https://huntr.co/) - a web app that keeps track of every detail about
 your job applications - notes, dates, tasks, job descriptions, salaries, locations, company data and more.
