@@ -3,6 +3,7 @@
 
 ## Table of Contents
 * [Companies](#companies)
+* [Are You Ready?](#are-you-ready)
 * [Technical Interviews](#technical-interviews)
 * [Resume](#resume)
   * [Building Your Resume](#building-your-resume)
@@ -24,6 +25,28 @@ Here are some of my favorite resources for finding companies to work for.
 * [Andreesen Horowitz Portfolio (a16z)](https://a16z.com/portfolio/)
 * [KPCB Portfolio](http://www.kpcb.com/companies)
 * [Sequoia Capital Portfolio](https://www.sequoiacap.com/companies/)
+
+## Applying
+### Are You Ready?
+Short answer: **YES**. Long answer: **YYYYYYEEEEEESSSSSSSSSSS**.
+
+#### Freshman
+
+Your options are definitely more limited after only your first year in college, but you shouldn't let that hold you back from applying at all! There are a solid number of companies that have internship programs targeted to freshman. Some of these are:
+* Google (Engineering Practicum Internship)
+* Facebook (Facebook U Internship)
+* Microsoft (Microsoft Explore Internship)
+
+These are absolutely worth applying to, but don’t rely on getting them or sometimes even hearing back. They’re highly competitive and you should keep looking after applying. It's also a great idea to to try local companies in your area. Even if they don’t list an internship application, sending an email can’t hurt. This was actually how I got my first software engineering
+internship!
+
+#### Sophomore
+
+Once you’ve taken or are taking Data Structures and Algorithms, you have all the knowledge you need to start. At this point, if you're looking for your first internship, you should work towards creating a side project or two. Having side projects are key to answering behavioral questions in an interview and attracting attention to your resume. The next step is to start preparing for interviews. This includes both behavioral and technical. Your Data Structures and Algorithms class is a good start to preparing for technical questions. See [Technical Interviews](#technical-interviews) for more!
+
+#### Junior
+
+As a junior, companies are going to expect you to know your Data Structures and Algorithms inside and out. Practice technical questions, both on an online resource and a whiteboard. With that said, even if you don’t have the technical questions down it's still smart to apply as applications open. It's definitely better to be early and fail a few interviews than to wait until the last minute and have all the spots be full. Chances are you won’t get an offer at the first company you interview with, but that's ok! Every interview can be taken as a learning experience towards your next one. Most big companies interview in a language-agnostic manner, but some smaller ones ask you to interview in a language they themselves you so be sure you're prepared for both options.
 
 ## Technical Interviews
 
@@ -85,8 +108,20 @@ See [this](https://github.com/andreis/interview) great repo for a thorough overv
       * This will help you get noticed by resume-scanning software and
       advance past the first screening stage.
 
+### Resume Design
+
+There are countless options for designing a resume. Some of my personal favorites include:
+* [ineedaresume](http://ineedaresu.me/)
+* [LaTeX Resume](https://latexresu.me)
+* [Best Resume Ever](https://github.com/salomonelli/best-resume-ever)
+
+You can also design your own instead of using a service, if you'd prefer. When I updated
+mine for summer 2017, I ended up redesigning it in Sketch.
+
 ### Resume Feedback:
 * [HH Websites and Resumes](https://www.facebook.com/groups/1487708811477672/)
+* [CSCareerQuestions](https://www.reddit.com/r/cscareerquestions/) reviews resumes every Tues/Thurs
+* Your school's career center
 
 ## Cover Letters
 
@@ -116,6 +151,7 @@ You primarily want to keep your referral requests to people you know more than i
 passing. If they can vouch for you as a person as well as an engineer, they're
 far more likely to refer you than if they don't know you well enough to speak
 to either.
+
 
 ## Fellowships
 
