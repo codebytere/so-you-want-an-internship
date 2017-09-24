@@ -1,7 +1,7 @@
 # So You Want an Internship
 ###### Shelley Vohr
 
-## Table of Contents
+## Table of Contents :point_down:
 * [Companies](#companies)
 * [Technical Interviews](#technical-interviews)
 * [Resume](#resume)
@@ -14,7 +14,7 @@
 * [Keeping Track of Your Applications](#keeping-track-of-your-applications)
 * [Portfolio and Profile](#portfolio-and-profile)
 
-## Companies
+## Companies :unicorn:
 
 Here are some of my favorite resources for finding companies to work for.
 
@@ -25,7 +25,7 @@ Here are some of my favorite resources for finding companies to work for.
 * [KPCB Portfolio](http://www.kpcb.com/companies)
 * [Sequoia Capital Portfolio](https://www.sequoiacap.com/companies/)
 
-## Technical Interviews
+## Technical Interviews :computer:
 
 You should have a fairly robust understanding of data structure & algorithms,
 as well as how to use them appropriately.
@@ -37,7 +37,7 @@ See [this](https://github.com/andreis/interview) great repo for a thorough overv
   * [Leetcode](https://leetcode.com/)
   * [Cracking The Coding Interview (CTCI)](http://www.crackingthecodinginterview.com/)
 
-## Resume
+## Resume :books:
 
 ### Building Your Resume
 
@@ -88,7 +88,7 @@ See [this](https://github.com/andreis/interview) great repo for a thorough overv
 ### Resume Feedback:
 * [HH Websites and Resumes](https://www.facebook.com/groups/1487708811477672/)
 
-## Cover Letters
+## Cover Letters :love_letter:
 
 Unless a cover letter is _required_, there is no need to write one. It won't ever
 hurt you to write it, but recruiters generally don't read them or care if you do.
@@ -102,7 +102,7 @@ If you do feel a need to write one, be sure to cover the following:
 5. **Why** are you interested in working for their company?
 6. **How** can they get back in contact with you?
 
-## Referrals
+## Referrals :grin: :heart: :grin:
 
 Referrals are major :key: if you can get them. They push you towards the top of
 the mountain of resumes that companies get every single day, and so they're more
@@ -117,7 +117,7 @@ passing. If they can vouch for you as a person as well as an engineer, they're
 far more likely to refer you than if they don't know you well enough to speak
 to either.
 
-## Fellowships
+## Fellowships :rocket:
 
 [8VCFellowship](http://8vcfellowship.com/) - [Application](https://formation8.typeform.com/to/afHHYv)
 
@@ -160,7 +160,7 @@ cities. When Fellows are ready to start a company — be it two years after coll
 or ten — VFA has the resources (like a crowdfunding competition, accelerator,
 and seed fund) to help make that dream a reality.
 
-## Networking
+## Networking :zap:
 ### Social Networking Resources
 * [Ladies Storm Hackathons (LSH)](https://www.facebook.com/groups/LadiesStormHackathons)
   * [LSH Jobs/Internships](https://www.facebook.com/groups/LSHJobs/)
@@ -179,8 +179,8 @@ your job applications - notes, dates, tasks, job descriptions, salaries, locatio
 * [Airtable](https://airtable.com/templates/everyday-life/expXOCN6dkEb2oDim/job-hunting) - Airtable makes it easy
 to organize stuff,people, ideas and anything else you can imagine.
 
-## Portfolio and Profile
-### GitHub
+## Portfolio and Profile :loudspeaker:
+### GitHub :octocat:
   * Set up a GitHub account for yourself, so that you can showcase personal projects or school-related projects.
   * Open source is another great avenue for establishing a portfolio.
     * If you've contributed significantly to an OSS project, recruiters will
