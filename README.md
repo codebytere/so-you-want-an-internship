@@ -186,6 +186,20 @@ Silicon Valley startup.
 
 Fellows will also be invited to attend both private events held by Kleiner Perkins as well as by our portfolio companies, where they can meet other talented engineering and design students, network with luminaries in their respective fields, and explore the San Francisco Bay Area.
 
+[hackNY Fellows Program](https://hackny.org/) - [Application](https://apply.hackny.org/)
+
+The hackNY Fellows Program is an intensive program designed to introduce students
+to NYC's startup ecosystem by pairing the best technical minds with great New York
+startups. You'll live in the heart of NYC with a cohort of some of the most talented
+and creative student technologists from all over the world. Local startups are
+carefully selected for the program and demonstrate both innovative tech and a strong
+mentoring environment. You will contribute meaningfully at your paid internship and
+learn from your work, our curated Speaker Series, and your fellow hackers. In an
+initiative led by our AlumNY and reflecting their community values, you will volunteer
+in programs for positive social impact in NYC. With a focus on increasing diversity
+and inclusivity in tech, you'll work within underserved communities by teaching,
+mentoring or using your technical skills for social good.
+
 [Venture For America](https://ventureforamerica.org/) - [Application](https://ventureforamerica.org/apply/)
 
 VFA is a two-year fellowship program for recent grads who want to work at a
