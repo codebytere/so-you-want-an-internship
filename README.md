@@ -2,7 +2,7 @@
 ###### Shelley Vohr
 
 ## Table of Contents :point_down:
-* [Companies](#companies)
+* [Companies](#companies-unicorn)
 * [Are You Ready?](#are-you-ready-eyes)
 * [Technical Interviews](#technical-interviews-computer)
 * [Resume](#resume-books)
@@ -13,7 +13,7 @@
 * [Referrals](#referrals-grin-heart-grin)
 * [Fellowships](#fellowships-rocket)
 * [Networking](#networking-zap)
-  * [Social Networking](#social-networking)
+  * [Social Networking](#social-networking-resources)
 * [Keeping Track of Your Applications](#keeping-track-of-your-applications-pencil)
 * [Portfolio and Profile](#portfolio-and-profile-loudspeaker)
 
@@ -43,7 +43,7 @@ internship!
 
 ### Sophomore
 
-Once you’ve taken or are taking Data Structures and Algorithms, you have all the knowledge you need to start. At this point, if you're looking for your first internship, you should work towards creating a side project or two. Having side projects are key to answering behavioral questions in an interview and attracting attention to your resume. The next step is to start preparing for interviews. This includes both behavioral and technical. Your Data Structures and Algorithms class is a good start to preparing for technical questions. See [Technical Interviews](#technical-interviews) for more!
+Once you’ve taken or are taking Data Structures and Algorithms, you have all the knowledge you need to start. At this point, if you're looking for your first internship, you should work towards creating a side project or two. Having side projects are key to answering behavioral questions in an interview and attracting attention to your resume. The next step is to start preparing for interviews. This includes both behavioral and technical. Your Data Structures and Algorithms class is a good start to preparing for technical questions. See [Technical Interviews](#technical-interviews-computer) for more!
 
 ### Junior
 
@@ -144,7 +144,7 @@ Referrals are major :key: if you can get them. They push you towards the top of
 the mountain of resumes that companies get every single day, and so they're more
 valuable then they first appear. Looking for relations you've built through
 school/classes, from past internships, or clubs is a great starting place. All
-it takes is a simple ask! You can get most often get a referral from current
+it takes is a simple ask! You can most often get a referral from current
 employees, former ones, interns, or former interns.
 
 However, there are a few things to keep in mind before you ask for a referral.
