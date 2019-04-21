@@ -27,6 +27,7 @@ Here are some of my favorite resources for finding companies to work for.
 * [Andreesen Horowitz Portfolio (a16z)](https://a16z.com/portfolio/)
 * [KPCB Portfolio](http://www.kpcb.com/companies)
 * [Sequoia Capital Portfolio](https://www.sequoiacap.com/companies/)
+* [Y Combinator](https://www.insidesherpa.com/virtual-internships/prototype/oRMogWRHeewqHzA7u/College-students%3A-Learn-how-to-work-at-a-YC-startup-)
 
 ## Are You Ready? :eyes:
 Short answer: **YES**. Long answer: **YYYYYYEEEEEESSSSSSSSSSS**.
