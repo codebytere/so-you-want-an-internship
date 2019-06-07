@@ -48,7 +48,7 @@ Once you’ve taken or are taking Data Structures and Algorithms, you have all t
 
 ### Junior
 
-As a junior, companies are going to expect you to know your Data Structures and Algorithms inside and out. Practice technical questions, both on an online resource and a whiteboard. With that said, even if you don’t have the technical questions down it's still smart to apply as applications open. It's definitely better to be early and fail a few interviews than to wait until the last minute and have all the spots be full. Chances are you won’t get an offer at the first company you interview with, but that's ok! Every interview can be taken as a learning experience towards your next one. Most big companies interview in a language-agnostic manner, but some smaller ones ask you to interview in a language they themselves you so be sure you're prepared for both options.
+As a junior, companies are going to expect you to know your Data Structures and Algorithms inside and out. Practice technical questions, both on an online resource and a whiteboard. With that said, even if you don’t have the technical questions down it's still smart to apply as applications open. It's definitely better to be early and fail a few interviews than to wait until the last minute and have all the spots be full. Chances are you won’t get an offer at the first company you interview with, but that's ok! Every interview can be taken as a learning experience towards your next one. Most big companies interview in a language-agnostic manner, but some smaller ones ask you to interview in a language they themselves use so be sure you're prepared for both options.
 
 ## Technical Interviews :computer:
 
