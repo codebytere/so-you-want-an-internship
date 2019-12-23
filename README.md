@@ -21,6 +21,7 @@
 
 Here are some of my favorite resources for finding companies to work for.
 
+* [Apply.fyi](https://apply.fyi/)
 * [Breakout List](https://breakoutlist.com/all)
 * [Angellist](https://angel.co/)
 * [Intern Supply](https://intern.supply)
