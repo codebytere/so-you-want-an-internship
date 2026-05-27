@@ -25,6 +25,7 @@ Here are some of my favorite resources for finding companies to work for.
 * [Breakout List](https://breakoutlist.com/all)
 * [Angellist](https://angel.co/)
 * [Intern Supply](https://intern.supply)
+* [Hanzilla Jobs](https://jobs.hanzilla.co/internships/) - Daily-updated Canadian student internship, co-op, new-grad, junior, and entry-level roles.
 * [Andreesen Horowitz Portfolio (a16z)](https://a16z.com/portfolio/)
 * [KPCB Portfolio](http://www.kpcb.com/companies)
 * [Sequoia Capital Portfolio](https://www.sequoiacap.com/companies/)
