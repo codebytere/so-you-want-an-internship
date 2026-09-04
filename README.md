@@ -117,6 +117,7 @@ There are countless options for designing a resume. Some of my personal favorite
 * [ineedaresume](http://ineedaresu.me/)
 * [LaTeX Resume](https://latexresu.me)
 * [Best Resume Ever](https://github.com/salomonelli/best-resume-ever)
+* [ResumeAI](https://withresumeai.com/) — Free ATS checker + candidate leaderboard (State of ATS 2026: 738 employers, 704 portal-verified; Workday 37.9%)
 
 You can also design your own instead of using a service, if you'd prefer. When I updated
 mine for summer 2017, I ended up redesigning it in Sketch.
