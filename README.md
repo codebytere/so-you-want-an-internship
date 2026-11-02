@@ -117,6 +117,7 @@ There are countless options for designing a resume. Some of my personal favorite
 * [ineedaresume](http://ineedaresu.me/)
 * [LaTeX Resume](https://latexresu.me)
 * [Best Resume Ever](https://github.com/salomonelli/best-resume-ever)
+* [JobEmerge](https://www.jobemerge.work) - AI career copilot with a job-fit test, resume translation in 19 languages, and a Markdown resume editor.
 
 You can also design your own instead of using a service, if you'd prefer. When I updated
 mine for summer 2017, I ended up redesigning it in Sketch.
